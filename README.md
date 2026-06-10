@@ -1,5 +1,5 @@
 # Hi 👋, I'm Piyush Panda
-## Business Analyst | Data Analyst | BI Analyst | Lifelong Learner 🇮🇳
+## Business Analyst | Data Analyst | BI Analyst
 
 <br/>
 <p align="center">
