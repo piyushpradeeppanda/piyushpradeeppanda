@@ -6,7 +6,7 @@
   
 ## 🚀 Bridging Business Problems & Data-Driven Solutions
 
-Business Analyst with 1.5+ years of experience converting ambiguous business problems into structured, data-backed decisions across Finance, Supply Chain, eCommerce & Manufacturing.
+Business Analyst with 1.5+ years of experience converting ambiguous business problems into structured, data-backed decisions across Finance, Supply Chain & eCommerce.
 
 Junior Business Analyst & Data Specialist | AI & Data-Driven Decision Making 
 </p>
@@ -54,9 +54,6 @@ JPFL Films Pvt. Ltd. *(Apr 2024 – Sep 2024)*
 **B.Tech in Artificial Intelligence & Machine Learning**  
 Sandip University (2021 – 2025)  
 ⭐ CGPA: 9.47  
-
-**HSC Science**  
-⭐ 84.33%  
 
 ---
 
